@@ -1,0 +1,6 @@
+Student student = new Student(
+    101,
+    "Pavan Teja",
+    "Data Science",
+    "secret123"
+);
